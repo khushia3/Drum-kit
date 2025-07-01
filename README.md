@@ -10,20 +10,7 @@ Simple and intuitive design
 
 Lightweight and responsive front-end experience
 
-📁 Project Structure
-drum-kit/
-│
-├── index.html          → Main HTML file
-├── styles.css          → Styling for the drum kit
-├── script.js           → JavaScript for interactivity
-├── sounds/             → Folder containing all drum sound `.mp3` files
-│    ├── tom-1.mp3
-│    ├── tom-2.mp3
-│    ├── tom-3.mp3
-│    ├── tom-4.mp3
-│    ├── snare.mp3
-│    ├── crash.mp3
-│    └── kick-bass.mp3
+
 🛠️ How It Works
 Each drum button is tied to a key (W, A, S, D, J, K, L)
 
