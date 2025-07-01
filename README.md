@@ -2,6 +2,8 @@
 A fun and interactive virtual drum kit built using HTML, CSS, and JavaScript. Users can play various drum sounds either by clicking on buttons or pressing corresponding keys on their keyboard.
 
 DEMO : https://khushia3.github.io/Drum-kit/ 
+
+
 🚀 Features
 Play drum sounds using mouse clicks or keyboard presses (W, A, S, D, J, K, L)
 
